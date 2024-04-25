@@ -1,0 +1,23 @@
+.logo{
+    width: 5rem;
+}
+
+.konten{
+    padding: 4rem;
+}
+
+.namaNavbar{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: xx-large;
+
+}
+
+.justify{
+    text-align: justify;
+}
+
+.nobulat{
+    list-style-type:none ;
+    margin-right: 5.2rem;
+}
+
